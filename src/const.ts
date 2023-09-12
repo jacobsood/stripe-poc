@@ -1,0 +1,2 @@
+export const PUBLISHABLE_KEY = 'PUBLISHABLE_KEY';
+export const CLIENT_SECRET = 'CLIENT_SECRET';
